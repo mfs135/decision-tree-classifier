@@ -3,7 +3,7 @@
 ## Predicting Loan Case Using Decision Tree
 
 <div align="center">
-<img height="300" width="700" src="https://www.researchgate.net/publication/343120305/figure/fig1/AS:941466281074692@1601474461877/Decision-making-in-loan-approval.png">
+<img height="200" width="900" src="https://www.researchgate.net/profile/Vinod-Kumar-159/publication/343120305/figure/fig1/AS:941466281074692@1601474461877/Decision-making-in-loan-approval.png">
 </div>
 
 ### Introduction
