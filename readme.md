@@ -2,6 +2,10 @@
 
 ## Predicting Loan Case Using Decision Tree
 
+<div align="center">
+<img height="300" width="700" src="https://www.researchgate.net/publication/343120305/figure/fig1/AS:941466281074692@1601474461877/Decision-making-in-loan-approval.png">
+</div>
+
 ### Introduction
 In this workshop, a **Loan dataset** was used to predict loan approval status using a **Decision Tree Classifier**. The dataset includes features such as:
 - Gender
