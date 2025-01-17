@@ -3,7 +3,7 @@
 ## Predicting Loan Case Using Decision Tree
 
 <div align="center">
-<img height="200" width="800" src="https://media.geeksforgeeks.org/wp-content/uploads/20221212133528/dcsion.png">
+<img height="300" width="700" src="https://media.geeksforgeeks.org/wp-content/uploads/20221212133528/dcsion.png">
 </div>
 
 ### Introduction
