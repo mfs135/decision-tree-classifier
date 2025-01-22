@@ -1,4 +1,4 @@
-# Decision Tree Classifier for Loan Prediction
+# Decision Tree Classifier for Loan Prediction.
 
 ## Predicting Loan Case Using Decision Tree
 
