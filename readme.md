@@ -1,6 +1,6 @@
 # Decision Tree Classifier for Loan Prediction
 
-## Predicting Loan Case Using Decision Tree
+## Predicting Loan Case Using Decision Tree...
 
 <div align="center">
 <img height="300" width="700" src="https://media.geeksforgeeks.org/wp-content/uploads/20221212133528/dcsion.png">
